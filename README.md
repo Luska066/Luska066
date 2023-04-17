@@ -1,3 +1,11 @@
+🔥 I'm Developer Front-end Jr
+
+🔭 I’m currently searck working!
+
+💬 My stacks JavaScript, HTML, CSS, SQL, Node.JS
+
+👨‍💻 I love Programmation
+
 
 <div align="center">
   <a href="https://github.com/Luska066">
