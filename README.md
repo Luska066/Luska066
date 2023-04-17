@@ -1,5 +1,6 @@
-
+<div align="center">
 <img src="https://avatars.githubusercontent.com/u/100397730?v=4" align="center"></img>
+</div>
 
 🔥 I'm Developer Front-end Jr
 
