@@ -1,3 +1,6 @@
+
+<img src="https://avatars.githubusercontent.com/u/100397730?v=4" align="center"></img>
+
 🔥 I'm Developer Front-end Jr
 
 🔭 I’m currently searck working!
@@ -6,6 +9,7 @@
 
 👨‍💻 I love Programmation
 
+<br>
 
 <div align="center">
   <a href="https://github.com/Luska066">
