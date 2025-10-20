@@ -4,7 +4,7 @@
 
 <br>
 
-🔥 I'm Developer Front-end Jr
+🔥 I'm Developer Fullstack Pleno
 
 🔭 I’m currently searck working!
 
